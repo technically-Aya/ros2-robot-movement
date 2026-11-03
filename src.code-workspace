@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"ROS2.distro": "jazzy",
+		"python.autoComplete.extraPaths": [
+			"/home/ayabonga/ros2_ws/build/sensor_library",
+			"/home/ayabonga/ros2_ws/install/sensor_library/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/tiago_description/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/pmb2_description/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/play_motion2_msgs/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/omni_base_description/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/build/launch_pal",
+			"/home/ayabonga/bookros2_ws/install/launch_pal/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/br2_tracking_msgs/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/build/br2_fsm_bumpgo_py",
+			"/home/ayabonga/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.12/site-packages",
+			"/opt/ros/jazzy/lib/python3.12/site-packages"
+		],
+		"python.analysis.extraPaths": [
+			"/home/ayabonga/ros2_ws/build/sensor_library",
+			"/home/ayabonga/ros2_ws/install/sensor_library/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/tiago_description/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/pmb2_description/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/play_motion2_msgs/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/omni_base_description/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/build/launch_pal",
+			"/home/ayabonga/bookros2_ws/install/launch_pal/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/install/br2_tracking_msgs/lib/python3.12/site-packages",
+			"/home/ayabonga/bookros2_ws/build/br2_fsm_bumpgo_py",
+			"/home/ayabonga/bookros2_ws/install/br2_fsm_bumpgo_py/lib/python3.12/site-packages",
+			"/opt/ros/jazzy/lib/python3.12/site-packages"
+		]
+	}
+}
